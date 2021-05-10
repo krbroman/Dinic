@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\1\source\repos\dinic\dinic\Source.cpp(43,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\source\repos\dinic\dinic\Source.cpp(43,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\source\repos\dinic\dinic\Source.cpp(43,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\1\source\repos\dinic\dinic\Source.cpp(71,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\1\source\repos\dinic\dinic\Source.cpp(104,9): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "clock_t"
+C:\Users\1\source\repos\dinic\dinic\Source.cpp(104,39): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\1\source\repos\dinic\dinic\Source.cpp(104,39): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  dinic.vcxproj -> C:\Users\1\source\repos\dinic\Debug\dinic.exe

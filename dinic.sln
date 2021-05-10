@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dinic", "dinic\dinic.vcxproj", "{6F3FBEA2-89E6-467B-8C9D-C49A85B76FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F3FBEA2-89E6-467B-8C9D-C49A85B76FBA}.Debug|x64.ActiveCfg = Debug|x64
+		{6F3FBEA2-89E6-467B-8C9D-C49A85B76FBA}.Debug|x64.Build.0 = Debug|x64
+		{6F3FBEA2-89E6-467B-8C9D-C49A85B76FBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F3FBEA2-89E6-467B-8C9D-C49A85B76FBA}.Debug|x86.Build.0 = Debug|Win32
+		{6F3FBEA2-89E6-467B-8C9D-C49A85B76FBA}.Release|x64.ActiveCfg = Release|x64
+		{6F3FBEA2-89E6-467B-8C9D-C49A85B76FBA}.Release|x64.Build.0 = Release|x64
+		{6F3FBEA2-89E6-467B-8C9D-C49A85B76FBA}.Release|x86.ActiveCfg = Release|Win32
+		{6F3FBEA2-89E6-467B-8C9D-C49A85B76FBA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78EDF5B8-7B5A-44FA-BD73-B29B337837FB}
+	EndGlobalSection
+EndGlobal
