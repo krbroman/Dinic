@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\1\source\repos\dinic\dinic\Source.cpp(105,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\source\repos\dinic\dinic\Source.cpp(105,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\1\source\repos\dinic\dinic\Source.cpp(105,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  dinic.vcxproj -> C:\Users\1\source\repos\dinic\x64\Debug\dinic.exe
